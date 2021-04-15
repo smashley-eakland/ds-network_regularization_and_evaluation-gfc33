@@ -1,3 +1,3 @@
-# ds-neural_networks
+# ds-network_regularization_and_evaluation
 
-This repository describes and implements, in keras, the architecture of sequential neural networks. It was created with love by the Flatiron School.
+This repository illustrates regularization and evaluation in `keras` sequential neural networks. It was created with love by the Flatiron School.
